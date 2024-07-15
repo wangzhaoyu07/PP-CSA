@@ -1,0 +1,23 @@
+{
+    "0": "<PAD>",
+    "1": "<UNK>",
+    "2": "<SOS>",
+    "3": "<EOS>",
+    "4": "<avrora.Main: void main(java.lang.String[])>",
+    "5": "<cck.util.Util$Error: void report()>",
+    "6": "<cck.text.Terminal: void print(int,java.lang.String)>",
+    "7": "<cck.text.Terminal: void print(java.lang.String)>",
+    "8": "<avrora.Main: void parseOptions(java.lang.String[])>",
+    "9": "<avrora.Main: void loadUserDefaults()>",
+    "10": "<cck.util.Options: void parseCommandLine(java.lang.String[])>",
+    "11": "<cck.text.Terminal: void outputColor(int,java.lang.String)>",
+    "12": "<cck.util.Options: void process(java.util.Properties)>",
+    "13": "<cck.util.Options: void setOption(java.lang.String,java.lang.String)>",
+    "14": "<cck.util.Option$Bool: boolean get()>",
+    "15": "<cck.util.Option$List: java.util.List get()>",
+    "16": "<cck.util.Options: void parseOption(java.lang.String)>",
+    "17": "<cck.util.Option$Str: void <init>(java.lang.String,java.lang.String,java.lang.String)>",
+    "18": "<cck.text.Verbose: void setVerbose(java.lang.String,boolean)>",
+    "19": "<cck.util.Option: void <init>(java.lang.String,java.lang.String)>",
+    "20": "<cck.util.Option$Str: boolean isBlank()>"
+}

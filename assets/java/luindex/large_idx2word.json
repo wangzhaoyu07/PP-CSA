@@ -1,0 +1,4 @@
+{
+    "0": "<org.dacapo.luindex.Index: void indexDocs(org.apache.lucene.index.IndexWriter,java.io.File)>",
+    "1": "<org.dacapo.luindex.Index: void main(java.io.File,java.lang.String[])>"
+}

@@ -1,0 +1,16 @@
+{
+    "0": "<PAD>",
+    "1": "<UNK>",
+    "2": "<SOS>",
+    "3": "<EOS>",
+    "4": "<org.dacapo.tomcat.Control: void exec(java.lang.String)>",
+    "5": "<org.dacapo.tomcat.Control: void startServer()>",
+    "6": "<org.dacapo.tomcat.AuthenticatedSession: org.dacapo.tomcat.Session create(java.lang.String,java.lang.String,int)>",
+    "7": "<org.dacapo.tomcat.Control: void stopServer()>",
+    "8": "<org.dacapo.tomcat.HttpGet: void <init>(java.lang.String,int,java.lang.String)>",
+    "9": "<org.dacapo.tomcat.AuthenticatedSession: void <init>(java.lang.String,java.lang.String,int)>",
+    "10": "<org.dacapo.tomcat.StartApp: void <init>(java.lang.String)>",
+    "11": "<org.dacapo.tomcat.StopApp: void <init>(java.lang.String)>",
+    "12": "<org.dacapo.tomcat.Session: void <init>(int)>",
+    "13": "<org.dacapo.tomcat.Page: void <init>(java.lang.String,int,java.lang.String)>"
+}

@@ -1,0 +1,19 @@
+{
+    "0": "<avrora.Main: void loadUserDefaults()>",
+    "1": "<avrora.Main: void main(java.lang.String[])>",
+    "2": "<avrora.Main: void parseOptions(java.lang.String[])>",
+    "3": "<cck.text.Terminal: void outputColor(int,java.lang.String)>",
+    "4": "<cck.text.Terminal: void print(int,java.lang.String)>",
+    "5": "<cck.text.Terminal: void print(java.lang.String)>",
+    "6": "<cck.text.Verbose: void setVerbose(java.lang.String,boolean)>",
+    "7": "<cck.util.Option$Bool: boolean get()>",
+    "8": "<cck.util.Option$List: java.util.List get()>",
+    "9": "<cck.util.Option$Str: boolean isBlank()>",
+    "10": "<cck.util.Option$Str: void <init>(java.lang.String,java.lang.String,java.lang.String)>",
+    "11": "<cck.util.Option: void <init>(java.lang.String,java.lang.String)>",
+    "12": "<cck.util.Options: void parseCommandLine(java.lang.String[])>",
+    "13": "<cck.util.Options: void parseOption(java.lang.String)>",
+    "14": "<cck.util.Options: void process(java.util.Properties)>",
+    "15": "<cck.util.Options: void setOption(java.lang.String,java.lang.String)>",
+    "16": "<cck.util.Util$Error: void report()>"
+}

@@ -27,7 +27,7 @@ python script_for_initialization.py
 
 After that, you can run the following commands to run PP-CSA:
 
-Run for java dataset
+Run for java datasets:
 
 ```bash
 python main.py \
@@ -60,7 +60,7 @@ python main.py \
       --is_android False \
 ```
 
-Run for android dataset
+Run for android datasets:
 
 ```bash
 python main.py \

@@ -1,0 +1,17 @@
+{
+    "0": "<PAD>",
+    "1": "<UNK>",
+    "2": "<SOS>",
+    "3": "<EOS>",
+    "4": "<net.sourceforge.pmd.PMD: void main(java.lang.String[])>",
+    "5": "<net.sourceforge.pmd.CommandLineOptions: void <init>(java.lang.String[])>",
+    "6": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void <init>(java.lang.String)>",
+    "7": "<net.sourceforge.pmd.CommandLineOptions: boolean debugEnabled()>",
+    "8": "<net.sourceforge.pmd.CommandLineOptions: java.lang.String usage()>",
+    "9": "<net.sourceforge.pmd.ScopedLogHandlersManager: void <init>(java.util.logging.Level,java.util.logging.Handler[])>",
+    "10": "<net.sourceforge.pmd.util.ConsoleLogHandler: void <init>()>",
+    "11": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void check(java.lang.String)>",
+    "12": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void populateNameMap()>",
+    "13": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void append(java.lang.String)>",
+    "14": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: java.lang.String getRuleSets()>"
+}

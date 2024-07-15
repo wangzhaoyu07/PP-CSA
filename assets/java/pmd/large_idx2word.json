@@ -1,0 +1,13 @@
+{
+    "0": "<net.sourceforge.pmd.CommandLineOptions: boolean debugEnabled()>",
+    "1": "<net.sourceforge.pmd.CommandLineOptions: java.lang.String usage()>",
+    "2": "<net.sourceforge.pmd.CommandLineOptions: void <init>(java.lang.String[])>",
+    "3": "<net.sourceforge.pmd.PMD: void main(java.lang.String[])>",
+    "4": "<net.sourceforge.pmd.ScopedLogHandlersManager: void <init>(java.util.logging.Level,java.util.logging.Handler[])>",
+    "5": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: java.lang.String getRuleSets()>",
+    "6": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void <init>(java.lang.String)>",
+    "7": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void append(java.lang.String)>",
+    "8": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void check(java.lang.String)>",
+    "9": "<net.sourceforge.pmd.SimpleRuleSetNameMapper: void populateNameMap()>",
+    "10": "<net.sourceforge.pmd.util.ConsoleLogHandler: void <init>()>"
+}

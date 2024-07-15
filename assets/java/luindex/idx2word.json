@@ -1,0 +1,8 @@
+{
+    "0": "<PAD>",
+    "1": "<UNK>",
+    "2": "<SOS>",
+    "3": "<EOS>",
+    "4": "<org.dacapo.luindex.Index: void main(java.io.File,java.lang.String[])>",
+    "5": "<org.dacapo.luindex.Index: void indexDocs(org.apache.lucene.index.IndexWriter,java.io.File)>"
+}

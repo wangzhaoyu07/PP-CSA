@@ -1,0 +1,12 @@
+{
+    "0": "<org.dacapo.tomcat.AuthenticatedSession: org.dacapo.tomcat.Session create(java.lang.String,java.lang.String,int)>",
+    "1": "<org.dacapo.tomcat.AuthenticatedSession: void <init>(java.lang.String,java.lang.String,int)>",
+    "2": "<org.dacapo.tomcat.Control: void exec(java.lang.String)>",
+    "3": "<org.dacapo.tomcat.Control: void startServer()>",
+    "4": "<org.dacapo.tomcat.Control: void stopServer()>",
+    "5": "<org.dacapo.tomcat.HttpGet: void <init>(java.lang.String,int,java.lang.String)>",
+    "6": "<org.dacapo.tomcat.Page: void <init>(java.lang.String,int,java.lang.String)>",
+    "7": "<org.dacapo.tomcat.Session: void <init>(int)>",
+    "8": "<org.dacapo.tomcat.StartApp: void <init>(java.lang.String)>",
+    "9": "<org.dacapo.tomcat.StopApp: void <init>(java.lang.String)>"
+}

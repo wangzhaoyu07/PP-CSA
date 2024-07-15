@@ -1,0 +1,8 @@
+{
+    "0": "<PAD>",
+    "1": "<UNK>",
+    "2": "<SOS>",
+    "3": "<EOS>",
+    "4": "<org.dacapo.lusearch.Search: void main(java.lang.String[])>",
+    "5": "<org.dacapo.lusearch.Search$QueryThread: void <init>(org.dacapo.lusearch.Search,org.dacapo.lusearch.Search,java.lang.String,int,int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,int)>"
+}
