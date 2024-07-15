@@ -1,0 +1,8 @@
+*.DS_Store
+__pycache__
+/.vscode
+/assets
+/index
+/benchmark
+/sample_scripts
+/try
